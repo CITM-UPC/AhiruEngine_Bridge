@@ -5,7 +5,7 @@
 
 Ahiru Engine is a game engine developed as part of the Bachelor’s Degree in Video Game Design and Development at CITM UPC in Terrassa. This initial release demonstrates the core functionality of the engine and highlights ongoing work and known issues being addressed by the development team.
 
-### Link to Release:
+## Link to Release v0.1.0 of Ahiru Engine:
 - [View the release on GitHub](https://github.com/kuroi-ahiru/ahiru-engine/releases/tag/alpha)
 
 ### 🦆 Features:
