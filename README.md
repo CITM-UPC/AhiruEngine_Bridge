@@ -1,12 +1,14 @@
 ![images_1](https://github.com/user-attachments/assets/8b903abf-f412-4276-8d60-507cae78976c)
 
 # THIS IS NOT THE PROJECT REPO!!!
-[View the offial repo on our GitHub](https://github.com/kuroi-ahiru/ahiru-engine/)
+[View the offcial repo on our GitHub](https://github.com/kuroi-ahiru/ahiru-engine/)
 
 Ahiru Engine is a game engine developed as part of the Bachelor’s Degree in Video Game Design and Development at CITM UPC in Terrassa. This initial release demonstrates the core functionality of the engine and highlights ongoing work and known issues being addressed by the development team.
 
 ## Link to Release v0.1.0 of Ahiru Engine:
 - [View the release on GitHub](https://github.com/kuroi-ahiru/ahiru-engine/releases/tag/alpha)
+
+### Ahiru Engine v0.1.0:
 
 ### 🦆 Features:
 - Drag & Drop FBX 3D Models
